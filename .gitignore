@@ -2,7 +2,5 @@
 *.backup
 *.terraform*
 *.txt
-
-# Variable overrides
 *.tfvars
 
